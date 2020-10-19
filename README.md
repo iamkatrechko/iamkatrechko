@@ -3,6 +3,9 @@
 <!--
 **iamkatrechko/iamkatrechko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://github.com/iamkatrechko/ProjectManager/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> фыа<br>
+<img src="https://github.com/iamkatrechko/ClipboardManager/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32">
+<img src="https://github.com/iamkatrechko/RickAndMorty/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
