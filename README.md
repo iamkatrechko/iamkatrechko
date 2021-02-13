@@ -1,6 +1,4 @@
-### Hi there 👋
-<!--**iamkatrechko/iamkatrechko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-### Список личных проектов
+### Hi there 👋. Список личных проектов
 Список неполный и неоконченный.<br>
 - Некоторые из проектов так и не увидели свет<br>
 - Некоторые из проектов так и не открыли свой исходный код окружающему миру
@@ -28,6 +26,8 @@
 
 <!--
 Here are some ideas to get you started:
+
+**iamkatrechko/iamkatrechko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
