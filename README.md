@@ -20,8 +20,8 @@
 <img src="https://github.com/iamkatrechko/ClipboardManager/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Менеджер буфера обмена (альфа) ([ссылка](https://github.com/iamkatrechko/ClipboardManager))<br>
 <img src="https://github.com/iamkatrechko/Yandex.School.2016/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Тестовое задание в Яндекс.Школу ([ссылка](https://github.com/iamkatrechko/Yandex.School.2016))<br>
 ### 2017
-<img src="https://github.com/iamkatrechko/Yandex.School.2017/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Тестовое задание в Яндекс.Школу ([ссылка](https://github.com/iamkatrechko/Yandex.School.2017))<br>
 <img src="https://github.com/iamkatrechko/iamkatrechko/blob/main/ic_icon_radio.png" width="32" height="32"> Онлайн радио<br>
+<img src="https://github.com/iamkatrechko/Yandex.School.2017/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Тестовое задание в Яндекс.Школу ([ссылка](https://github.com/iamkatrechko/Yandex.School.2017))<br>
 
 ### 2018
 <img src="https://github.com/iamkatrechko/RickAndMorty/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Тестовое задание Rick and Morty ([ссылка](https://github.com/iamkatrechko?tab=repositories))
