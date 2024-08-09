@@ -16,7 +16,7 @@
 <img src="https://trashbox.ru/apk_icons/708677_256.png" width="32" height="32"> Авито автопоиск с оповещениям<br>
 <img src="https://play-lh.googleusercontent.com/8tLtqbngjr7PEgav9G_CIsHJIYdihLcW48W-yVZlNvQoTVfSdzb7_uHvO33Lz9jUma3O=s180-rw" width="32" height="32"> Юла автопоиск с оповещениям<br>
 <img src="https://github.com/iamkatrechko/AutoRuNotify/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Auto.ru автопоиск с оповещениям<br>
-<img src="https://github.com/iamkatrechko/ProjectManager/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Таск-менеджер (альфа)<br>
+<img src="https://github.com/iamkatrechko/ProjectManager/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Таск-менеджер (альфа) ([ссылка](https://github.com/iamkatrechko/ProjectManager))<br>
 <img src="https://github.com/iamkatrechko/ClipboardManager/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Менеджер буфера обмена (альфа)<br>
 <img src="https://github.com/iamkatrechko/Yandex.School.2016/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Тестовое задание в Яндекс.Школу<br>
 ### 2017
