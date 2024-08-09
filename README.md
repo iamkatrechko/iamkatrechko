@@ -15,15 +15,16 @@
 ### 2016
 <img src="https://trashbox.ru/apk_icons/708677_256.png" width="32" height="32"> Авито автопоиск с оповещениям<br>
 <img src="https://play-lh.googleusercontent.com/8tLtqbngjr7PEgav9G_CIsHJIYdihLcW48W-yVZlNvQoTVfSdzb7_uHvO33Lz9jUma3O=s180-rw" width="32" height="32"> Юла автопоиск с оповещениям<br>
-<img src="https://github.com/iamkatrechko/AutoRuNotify/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Auto.ru автопоиск с оповещениям<br>
-<img src="https://github.com/iamkatrechko/ProjectManager/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Таск-менеджер (альфа) ([ссылка](https://github.com/iamkatrechko/ProjectManager))<br>
-<img src="https://github.com/iamkatrechko/ClipboardManager/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Менеджер буфера обмена (альфа)<br>
-<img src="https://github.com/iamkatrechko/Yandex.School.2016/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Тестовое задание в Яндекс.Школу<br>
+<img src="https://github.com/iamkatrechko/AutoRuNotify/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Auto.ru автопоиск с оповещениям ([ссылка](https://github.com/iamkatrechko/AutoRuNotify))<br>
+<img src="https://github.com/iamkatrechko/ProjectManager/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"/> Таск-менеджер (альфа) ([ссылка](https://github.com/iamkatrechko/ProjectManager))<br>
+<img src="https://github.com/iamkatrechko/ClipboardManager/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Менеджер буфера обмена (альфа) ([ссылка](https://github.com/iamkatrechko/ClipboardManager))<br>
+<img src="https://github.com/iamkatrechko/Yandex.School.2016/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Тестовое задание в Яндекс.Школу ([ссылка](https://github.com/iamkatrechko/Yandex.School.2016))<br>
 ### 2017
-<img src="https://github.com/iamkatrechko/Yandex.School.2017/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Тестовое задание в Яндекс.Школу<br>
+<img src="https://github.com/iamkatrechko/Yandex.School.2017/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Тестовое задание в Яндекс.Школу ([ссылка](https://github.com/iamkatrechko/Yandex.School.2017))<br>
+<img src="https://github.com/iamkatrechko/iamkatrechko/blob/main/ic_icon_radio.png" width="32" height="32"> Онлайн радио<br>
 
 ### 2018
-<img src="https://github.com/iamkatrechko/RickAndMorty/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Тестовое задание Rick and Morty
+<img src="https://github.com/iamkatrechko/RickAndMorty/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> Тестовое задание Rick and Morty ([ссылка](https://github.com/iamkatrechko?tab=repositories))
 
 <!--
 Here are some ideas to get you started:
@@ -38,4 +39,34 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+<h2 align="left" style="vertical-align: middle;">
+    <img src="https://github.com/iamkatrechko/Yandex.School.2016/blob/master/app/src/main/res/drawable/ic_icon.png" width="24" height="24"><sup><sub> Менеджер буфера обмена (альфа)</sub></sup>
+</h2>
+<h3 align="left" style="vertical-align: middle;">
+    <img src="https://github.com/iamkatrechko/Yandex.School.2016/blob/master/app/src/main/res/drawable/ic_icon.png" width="24" height="24"><sup> Менеджер буфера обмена (альфа)</sup>
+</h3>
+<h3 align="left" style="vertical-align: middle;">
+    <img src="https://github.com/iamkatrechko/Yandex.School.2016/blob/master/app/src/main/res/drawable/ic_icon.png" width="24" height="24"><sup> Менеджер буфера обмена (альфа)</sup>
+</h3><br>
+
+([ссылка](https://github.com/iamkatrechko/ProjectManager))
+
+<h3 align="left" style="vertical-align: middle;">
+    <img src="https://github.com/iamkatrechko/Yandex.School.2016/blob/master/app/src/main/res/drawable/ic_icon.png" width="24" height="24"><sup> Менеджер буфера обмена (альфа)</sup>
+</h3>
+<h1 align="left" style="vertical-align: middle;">
+    <img src="https://github.com/iamkatrechko/Yandex.School.2016/blob/master/app/src/main/res/drawable/ic_icon.png" width="54" height="54"><sup><sup> Менеджер буфера обмена (альфа)</sup></sup>
+</h1>
+<h1 align="left" style="vertical-align: middle;">
+    <img src="https://github.com/iamkatrechko/Yandex.School.2016/blob/master/app/src/main/res/drawable/ic_icon.png" width="54" height="54"><sup><sup> Менеджер буфера обмена (альфа)</sup></sup>
+</h1>
+
+<h1 align="left" style="vertical-align: middle;">
+    <img src="https://github.com/iamkatrechko/Yandex.School.2016/blob/master/app/src/main/res/drawable/ic_icon.png" width="54" height="54"><sup><sup> Менеджер буфера обмена (альфа)</sup></sup>
+</h1>
+
+<img src="https://github.com/iamkatrechko/Yandex.School.2016/blob/master/app/src/main/res/drawable/ic_icon.png" width="32" height="32"> <p align="center">Centered paragraph content.</p>
 -->
